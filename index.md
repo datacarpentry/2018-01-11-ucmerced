@@ -248,6 +248,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   please preview your site before committing, and make sure to run
   'tools/check' as well.
 -->
+<!--
 <h2 id="syllabus">Syllabus</h2>
 
 {% if page.carpentry == "swc" %}
@@ -259,6 +260,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
+-->
 
 <!--
   SETUP
@@ -272,6 +274,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   'tools/check' as well.
 -->
 
+<!--
 <h2 id="setup">Setup</h2>
 
 <p>
@@ -747,6 +750,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> <!-- End of 'OpenRefine' section. -->
+
+-->
 
 <!--
   Uncomment this section if you are using our virtual machine.
