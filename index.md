@@ -87,11 +87,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% if page.latlng %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}. <a href="https://www.aaiscloud.com/UCAMerced/resources/RoomForm.aspx?id=91ed3214-a561-450f-92c2-b98a96494f1f">COB1 information</a>
-  Get directions with
-  <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
-  or
-  <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  {{page.address}}.
 </p>
 {% endif %}
 
