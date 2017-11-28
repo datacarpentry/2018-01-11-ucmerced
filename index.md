@@ -186,12 +186,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 -->
-<h2 id="schedule">Schedule</h2>
-
-**Draft schedule** General overview of the workshop: <a href="https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/">https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/</a>
 
 <!-- DO NOT EDIT SURVEY LINKS -->
-<p><em>Surveys</em></p>
+<h3>Surveys</h3>
 {% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
@@ -203,6 +200,10 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% elsif page.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
+
+<h2 id="schedule">Schedule</h2>
+
+**Draft schedule** General overview of the workshop: <a href="https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/">https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/</a>
 
 
 {% if page.carpentry == "swc" %}
