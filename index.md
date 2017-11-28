@@ -188,7 +188,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 -->
 <h2 id="schedule">Schedule</h2>
 
-**Draft schedule** General overview of the workshop: <a href=https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/>https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/</a>
+**Draft schedule** General overview of the workshop: <a href="https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/">https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/</a>
 
 <!-- DO NOT EDIT SURVEY LINKS -->
 <p><em>Surveys</em></p>
