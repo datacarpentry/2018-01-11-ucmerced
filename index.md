@@ -186,7 +186,7 @@ eventbrite: 40850529032        # optional: alphanumeric key for Eventbrite regis
 
 <h2 id="schedule">Schedule</h2>
 
-**Draft schedule** General overview of the workshop: <a href="https://reproducible-science-curriculum.github.io/workshop-rr-jupyter/">https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/</a>
+**Draft schedule** General overview of the workshop: <a href="https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/">https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/</a>
 
 
 {% if page.carpentry == "swc" %}
